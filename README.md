@@ -6,4 +6,3 @@ Technologies used - HTML5, CSS, JavaScript
 
 Video demonstration link - https://drive.google.com/file/d/1WY9pdyvvZiI0FgRZGJoLRW0QSUY5wGDS/view?usp=drive_link
 
-Project interface - https://1drv.ms/i/c/84ee20dfde978b70/EThYJhAP-PJNlSE-kCRHl9kBHSATAVPVj4Q36I5bbR2qDQ?e=Mr6dmV
